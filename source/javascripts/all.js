@@ -1,2 +1,4 @@
 //= require react-with-addons
-//= require untitled
+//= require jquery
+//= require _showdown
+//= require react
