@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "b482e3d0-8aea-47e3-bdc0-8e9b1725f909",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-2:828642620887:environment/vcxvcx",
+    "templateArn" : "arn:aws:proton:us-east-2:828642620887:environment-template/terraform",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
